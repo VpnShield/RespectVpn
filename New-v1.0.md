@@ -2,9 +2,9 @@
 "Title": "❌ قطع اتصال شما ❌",
 "Description": "با توجه به اختلالات سراسری و جلوگیری از قطع اینترنت شما ، لازمه فورا داخل کانال پشتیبان برنامه عضو شوید ، در غیر این صورت اتصال شما قطع میشود 🙏🏻❤️",
 "Link": "",
-"ColorWave": "#FFD600",
-"Color": "#FFA500",
-"ColorWaveTwo": "#FF3D00",
+"ColorWave": "#FFD000600",
+"Color": "#FFA0000500",
+"ColorWaveTwo": "#FF0003D00",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,7 +15,7 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "028737360001",
+"MessageID": "",
 "ShowTime": "3",
 "Button": " عضویت اجباری ",
 "ButtonCancell": "  ",
